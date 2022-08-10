@@ -1,6 +1,6 @@
 ## UKI  
 ## Longlong Wang 
-## Institute of Geology and Geophysics, Chinese Academy of Sciences. China
+## Institute of Geology and Geophysics, Chinese Academy of Sciences, China
 ## Thu Mar 31 19:59:32 CST 2022
 
 import numpy as np
