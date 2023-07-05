@@ -1,6 +1,5 @@
-## UKI  
-## Longlong Wang 
-## Institute of Geology and Geophysics, Chinese Academy of Sciences, China
+## A Python Implementation of UKI. Originally Developed by Daniel Zhengyu Huang @Caltech (https://github.com/Zhengyu-Huang/InverseProblems.jl)
+## inlizard Wang Longlong@IGGCAS(INSTITUTE OF GEOLOGY AND GEOPHYSICS, CHINESE ACADEMY OF SCIENCES)
 ## Thu Mar 31 19:59:32 CST 2022
 
 import numpy as np
